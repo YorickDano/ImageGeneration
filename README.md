@@ -42,3 +42,48 @@ Bluish
 
 ![Bluish](https://user-images.githubusercontent.com/70775008/232518478-6cd8f47e-0e76-4195-9b4f-e5a071427609.jpg)
 
+
+Colored (100,0,0)
+
+![Colored_255_100_0_0](https://user-images.githubusercontent.com/70775008/234351874-7d405d2a-3f59-4068-a59e-1870ca092f8a.jpg)
+
+
+Colored base (255,0,0)
+
+![ColoredBase_255_255_0_0](https://user-images.githubusercontent.com/70775008/234351978-f67f38da-069f-4c77-8f11-55778b1319d6.jpg)
+
+
+Colored base (0,0,255)
+
+![ColoredBase_255_0_0_255](https://user-images.githubusercontent.com/70775008/234352058-b3dd99ee-6d22-4444-838b-ff35c0092f4c.jpg)
+
+
+Colored base (0,0,0)
+
+![Colored_255_0_0_0](https://user-images.githubusercontent.com/70775008/234352139-d986d818-5a31-429c-8266-5973b67c4ed4.jpg)
+
+
+Consoled colored 
+
+![ConsoleColored](https://user-images.githubusercontent.com/70775008/234352202-3dd210ac-ea37-4aad-96dd-96897b607d55.jpg)
+
+
+Height mix 
+
+![HeightMix](https://user-images.githubusercontent.com/70775008/234352261-b3f72f73-ccbb-4e4d-b63d-7b7b2b4dcecb.jpg)
+
+
+Width mix
+
+![WidthMix](https://user-images.githubusercontent.com/70775008/234352306-45b5554f-efdf-400b-bdcc-8383891655d3.jpg)
+
+
+Mix
+
+![Mixed](https://user-images.githubusercontent.com/70775008/234352327-211b4dff-ade1-4ad1-8650-509983d79419.jpg)
+
+
+Height linner 
+
+![HeightLinner](https://user-images.githubusercontent.com/70775008/234352423-2210cb68-441d-4eb0-b25b-589df6810a31.jpg)
+
